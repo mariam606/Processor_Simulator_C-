@@ -1,0 +1,27 @@
+ADD 10 0 10
+MUL 0 0 1
+JPA 4
+ASI 20 2
+NEG 1 2
+HLT
+
+
+testA1.txt
+testA2.txt
+testA3.txt
+testA4.txt
+testA5.txt
+testA6.txt
+testA7.txt
+testA8.txt
+testA9.txt
+testA10.txt
+
+
+testB1.txt
+testB2.txt
+testB3.txt
+
+testC1.txt
+testC2.txt
+testC3.txt
